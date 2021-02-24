@@ -10,6 +10,15 @@ public class ProductDTO implements Serializable {
 	private Float price;
 	private Float qty;
 	
+ererre
+e
+r
+er
+e
+r
+er
+
+
 
 sysscddfdffdfd
      
