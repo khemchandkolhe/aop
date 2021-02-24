@@ -10,17 +10,44 @@ public class ProductDTO implements Serializable {
 	private Float price;
 	private Float qty;
 	
-ererre
-e
-r
-er
-e
-r
-er
 
 
+system.out.println();dcdff
+d
+f
+df
+f
+d
 
-sysscddfdffdfd
+gh
+hg
+h
+
+
+h
+gh
+gh
+h
+gg
+
+gh
+gh
+dfdf
+df
+df
+d
+f
+d
+f
+fd
+f
+df
+df
+df
+d
+f
+df
+
      
 	public int getPid() {
 		return pid;
